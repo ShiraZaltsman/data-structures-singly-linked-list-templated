@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(data_structures_singly_linked_list_templated_ShiraZaltsman)
+
+set(CMAKE_CXX_STANDARD 98)
+
+add_executable(data_structures_singly_linked_list_templated_ShiraZaltsman main.cpp LinkedList.cpp LinkedList.h)

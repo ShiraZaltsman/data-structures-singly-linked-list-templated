@@ -1,0 +1,3 @@
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/cmake-build-debug/CMakeFiles/data_structures_singly_linked_list_templated_ShiraZaltsman.dir
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir
