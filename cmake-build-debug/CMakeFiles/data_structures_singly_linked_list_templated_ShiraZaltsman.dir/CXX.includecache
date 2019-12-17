@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/LinkedList.h
+clocale
+-
+iostream
+-
+
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/main.cpp
+iostream
+-
+LinkedList.h
+/home/shira/Desktop/data-structures-singly-linked-list-templated-ShiraZaltsman/LinkedList.h
+
